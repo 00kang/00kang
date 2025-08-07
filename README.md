@@ -5,17 +5,14 @@
 
 ## Journey
 ### 2025
+- 🚀[프로젝트] **FlowIt - 목표 관리 체크리스트 플랫폼** `2025.06 ~ 진행 중` : [저장소](https://github.com/FESI-FlowIt) | [배포]()
 - 📝 [교육] **코드잇 프론트엔드 심화 10기** `2025.06 ~ 진행 중` : [학습 아카이브](https://github.com/00kang/codeit-boost-10th-archive)
-
 - 🚀[프로젝트] **DevPrep - 개발자 면접 플랫폼** `2025.04 ~ 진행 중` : [저장소](https://github.com/team-dev-prep) | [배포](https://www.devprep.store/)
 
 ### 2024
 - 🚀[프로젝트] **CoReA - 코드리뷰 플랫폼** `2024.07 ~ 2024.11` : [저장소](https://github.com/woowacourse-teams/2024-corea) | [배포](https://code-review-area.com/)
-
 - 📝[교육] **우아한테크코스 6기 프론트엔드 수료** `2024.02 ~ 2024.11` : [학습 아카이브](https://github.com/00kang/woowacourse-6th-archive)  
-
 - 🎓[학력] **숭실대학교 AI융합학부 졸업** `2024.02`
-
 
 ### 2023
 - 📝[동아리] **SSUMC 5기 WEB** `2023.09 ~ 2024.02` : [학습 아카이브](https://github.com/00kang/SSUMC-assignment)   
